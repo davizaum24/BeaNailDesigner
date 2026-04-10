@@ -7,12 +7,20 @@ Este projeto é uma landing page desenvolvida para uma Nail Designer, com foco e
 Criar uma página simples, bonita e funcional para:
 
 Apresentar os serviços oferecidos
+
 Gerar interesse em potenciais clientes
+
 Exibir provas sociais (feedbacks)
+
 Facilitar o agendamento
+
+
 🛠️ Tecnologias utilizadas
 HTML5
+
 CSS3
+
+
 📱 Estrutura da página
 
 A página é composta por:
