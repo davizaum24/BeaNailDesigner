@@ -35,11 +35,13 @@ A página é composta por:
 Nome da profissional
 Navegação entre seções (Home, Feedbacks, etc)
 <br>
+<br>
 🎯 Hero Section
 Frase principal de impacto
 Descrição dos serviços
 Botão de ação (agendamento)
 Imagem de destaque
+<br>
 <br>
 💬 Feedbacks
 Depoimentos de clientes
